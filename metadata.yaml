@@ -1,5 +1,8 @@
 _repo: Love-s-Coming-of-Age-A-series-of-papers-on-the-relations-of-the-sexes_63081
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63081-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/657
     wikipedia: https://en.wikipedia.org/wiki/Edward_Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63081#Love-s-Coming-of-Age-A-series-of-papers-on-the-relations-of-the-sexes
 gutenberg_issued: '2020-08-30'
 gutenberg_type: Text
 identifiers:
